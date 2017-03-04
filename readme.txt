@@ -1,2 +1,2 @@
 git is a control system
-git is a free software
+git is a free software GPL
